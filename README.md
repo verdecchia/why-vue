@@ -1,6 +1,6 @@
 # Vuejs with babel standalone
 
-This code come from vuejs.org website "Why vue.js" introduction video. I added babel standalone to let it work with Internet Explorer 11 too.
+This code come from vuejs.org website "Why vue.js" introduction video. I added babel standalone to let it works with Chrome, Firefox and with Internet Explorer version 11.
 
 ## Getting Started
 
@@ -20,3 +20,13 @@ npm install
 ```
 npm start
 ```
+
+## Vue and tested Browsers
+
+<img src="docs/images/vue-logo.svg" width="48">
+
+<img src="docs/images/firefox.svg" width="48">
+
+<img src="docs/images/chrome.svg" width="48">
+
+<img src="docs/images/ie11.svg" width="160">
