@@ -1,0 +1,22 @@
+{
+  "name": "why-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "promise-polyfill": "^7.0.2",
+    "vue": "^2.5.13",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
