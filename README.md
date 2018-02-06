@@ -23,10 +23,4 @@ npm start
 
 ## Vue and tested Browsers
 
-<img src="docs/images/vue-logo.svg" width="48">
-
-<img src="docs/images/firefox.svg" width="48">
-
-<img src="docs/images/chrome.svg" width="48">
-
-<img src="docs/images/ie11.svg" width="160">
+<img src="docs/images/vue-logo.svg" width="48"> <img src="docs/images/firefox.svg" width="48"> <img src="docs/images/chrome.svg" width="48"><img src="docs/images/ie11.svg" width="160">
